@@ -1,5 +1,3 @@
-Here's an example of a simple and professional README for the project:
-
 ---
 
 # Krage - Internal Cheat for Counter-Strike
