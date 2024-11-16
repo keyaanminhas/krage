@@ -1,4 +1,4 @@
-# Krage - Internal Cheat for Counter-Strike
+# Krage - Internal Cheat for Counter-Strike 1.6
 
 **Krage** is a lightweight internal cheat for Counter-Strike games, providing an **aimbot** and **anti-flash** functionality. It is designed for minimalism and efficiency, with features triggered by holding the **Left Shift** key.
 
