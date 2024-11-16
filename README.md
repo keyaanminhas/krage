@@ -44,6 +44,3 @@ This project is for educational purposes only. Using cheats in games may result 
 
 This project is intended solely for learning and research purposes. The author does not endorse or encourage the use of cheats in multiplayer games or any other forms of software misuse. Use responsibly and at your own risk.
 
----
-
-Feel free to adjust the text if you'd like to include more specific details or disclaimers!
